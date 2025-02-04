@@ -1,0 +1,27 @@
+# ninja log v6
+1047	1182	7600477928908917	verificaCandidato.exe	6888b2f07a5036c0
+269	331	7600474167044371	CMakeFiles/EstructurasDeControl.dir/verificaPrimeraLetra.cpp.obj.modmap	675af6ef1e9b3700
+269	331	7600474167044371	CMakeFiles/EstructurasDeControl.dir/CXX.dd	675af6ef1e9b3700
+1106	1242	7600475658144506	verificaAprobado.exe	53e79629bfee3c3f
+14	389	7604069411245644	build.ninja	26daa6894c425819
+964	1084	7600474173994685	EstructurasDeControl.exe	559a20ff7e695917
+32	269	7600474164673581	CMakeFiles/EstructurasDeControl.dir/verificaPrimeraLetra.cpp.obj.ddi	f1f1c66f6b2d9180
+273	344	7600475650488472	CMakeFiles/verificaAprobado.dir/CXX.dd	ec6d15068715e495
+339	964	7600474167752825	CMakeFiles/EstructurasDeControl.dir/verificaPrimeraLetra.cpp.obj	f5b5960440573a83
+2	177	7600474669779175	CMakeFiles/verificaPositivo.dir/verificaPositivo.cpp.obj.ddi	d4fdd0b63c1a739f
+177	226	7600474671980207	CMakeFiles/verificaPositivo.dir/CXX.dd	f5a1cd24b4ff0997
+177	226	7600474671980207	CMakeFiles/verificaPositivo.dir/verificaPositivo.cpp.obj.modmap	f5a1cd24b4ff0997
+803	928	7600474677786462	verificaPositivo.exe	1ba4cc8af0f600fc
+233	802	7600474672086085	CMakeFiles/verificaPositivo.dir/verificaPositivo.cpp.obj	39456729e6f43a92
+17	272	7600475647254301	CMakeFiles/verificaAprobado.dir/verificaAprobado.cpp.obj.ddi	f386275f014b3205
+273	344	7600475650488472	CMakeFiles/verificaAprobado.dir/verificaAprobado.cpp.obj.modmap	ec6d15068715e495
+22	79	7600478499252895	CMakeFiles/verificaCandidato.dir/verificaCandidato.cpp.obj.modmap	1438d614c2683662
+351	1105	7600475650598453	CMakeFiles/verificaAprobado.dir/verificaAprobado.cpp.obj	68b185d74f023804
+17	246	7600477918605487	CMakeFiles/verificaCandidato.dir/verificaCandidato.cpp.obj.ddi	26e6522da5477dd2
+22	79	7600478499252895	CMakeFiles/verificaCandidato.dir/CXX.dd	1438d614c2683662
+332	1046	7600477921757629	CMakeFiles/verificaCandidato.dir/verificaCandidato.cpp.obj	333cd9279e9b63c0
+2	200	7600478590025808	CMakeFiles/evaluacionCalificacion.dir/evaluacionCalificacion.cpp.obj.ddi	a6ccc71daa51c1a3
+200	263	7600478592582696	CMakeFiles/evaluacionCalificacion.dir/CXX.dd	87f03c2c9d1348a0
+200	263	7600478592582696	CMakeFiles/evaluacionCalificacion.dir/evaluacionCalificacion.cpp.obj.modmap	87f03c2c9d1348a0
+270	739	7600478592699580	CMakeFiles/evaluacionCalificacion.dir/evaluacionCalificacion.cpp.obj	532378a8bbd5b049
+739	839	7600478597392710	evaluacionCalificacion.exe	b3b98f40dad6f0bc

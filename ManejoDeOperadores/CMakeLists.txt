@@ -1,0 +1,14 @@
+cmake_minimum_required(VERSION 3.30)
+project(ManejoDeOperadores)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(ManejoDeOperadores main.cpp)
+add_executable(evaluacionAdmisiones evaluacionAdmisiones.cpp)
+add_executable(operadoresLogicosRelacionales operadoresLogicosRelacionales.cpp)
+add_executable(operadoresBitwise operadoresBitwise.cpp)
+add_executable(gestionPermisos gestionPermisos.cpp)
+add_executable(cuentaBancaria cuentaBancaria.cpp)
+add_executable(operadoresAsignacion operadoresAsignacion.cpp)
+add_executable(operadoresIncrementoPrePost operadoresIncrementoPrePost.cpp)
+add_executable(tolkensAlternativos tolkensAlternativos.cpp)

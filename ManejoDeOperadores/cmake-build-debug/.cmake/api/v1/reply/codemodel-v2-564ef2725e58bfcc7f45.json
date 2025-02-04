@@ -1,0 +1,132 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ManejoDeOperadores",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ManejoDeOperadores::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ManejoDeOperadores-Debug-0ec58dee7aeeaa6ebd20.json",
+					"name" : "ManejoDeOperadores",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cuentaBancaria::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cuentaBancaria-Debug-402f80bcd43270e5e3f0.json",
+					"name" : "cuentaBancaria",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "evaluacionAdmisiones::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-evaluacionAdmisiones-Debug-0898bbdd465e4737feed.json",
+					"name" : "evaluacionAdmisiones",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gestionPermisos::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gestionPermisos-Debug-ff7b34d30942329f9efc.json",
+					"name" : "gestionPermisos",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "operadoresAsignacion::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-operadoresAsignacion-Debug-7f16bcf813ccb08cf6a4.json",
+					"name" : "operadoresAsignacion",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "operadoresBitwise::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-operadoresBitwise-Debug-5fc4c139a214026d38a6.json",
+					"name" : "operadoresBitwise",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "operadoresIncrementoPrePost::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-operadoresIncrementoPrePost-Debug-f5824c51ac58f9510f17.json",
+					"name" : "operadoresIncrementoPrePost",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "operadoresLogicosRelacionales::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-operadoresLogicosRelacionales-Debug-ff803fcd1f7e319b9e1a.json",
+					"name" : "operadoresLogicosRelacionales",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tolkensAlternativos::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tolkensAlternativos-Debug-bd615ae828b8f3694893.json",
+					"name" : "tolkensAlternativos",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/hanna/OneDrive/Escritorio/CLionProjects/ManejoDeOperadores/cmake-build-debug",
+		"source" : "C:/Users/hanna/OneDrive/Escritorio/CLionProjects/ManejoDeOperadores"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

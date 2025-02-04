@@ -1,0 +1,21 @@
+# ninja log v6
+4	233	7600448053923038	CMakeFiles/TiposDeDatos.dir/main.cpp.obj.ddi	fb581e42f32d4d79
+974	1087	7600448063620468	TiposDeDatos.exe	8dd52cbf0549714f
+1135	1244	7600469115831791	usoDeConstantes.exe	62ebb83fd61e9502
+233	295	7600448056779154	CMakeFiles/TiposDeDatos.dir/CXX.dd	c0f382c7a5f70e52
+214	276	7600467977169193	CMakeFiles/conversionExplicita.dir/CXX.dd	de7efab6bb61cc5b
+256	333	7600466573879351	CMakeFiles/conversionTipos.dir/CXX.dd	290e12681025af31
+233	295	7600448056779154	CMakeFiles/TiposDeDatos.dir/main.cpp.obj.modmap	c0f382c7a5f70e52
+301	972	7600448056891977	CMakeFiles/TiposDeDatos.dir/main.cpp.obj	80ee59409563fe00
+18	256	7600466570772536	CMakeFiles/conversionTipos.dir/conversionTipos.cpp.obj.ddi	eb4a62f096b81224
+256	333	7600466573879351	CMakeFiles/conversionTipos.dir/conversionTipos.cpp.obj.modmap	290e12681025af31
+340	1140	7600466574002226	CMakeFiles/conversionTipos.dir/conversionTipos.cpp.obj	473cfcf1dbc00e8f
+214	276	7600467977169193	CMakeFiles/conversionExplicita.dir/conversionExplicita.cpp.obj.modmap	de7efab6bb61cc5b
+406	1135	7600469108541373	CMakeFiles/usoDeConstantes.dir/usoDeConstantes.cpp.obj	755e19caed01c535
+1141	1268	7600466582008330	conversionTipos.exe	dca93732111ba384
+15	214	7600467974624267	CMakeFiles/conversionExplicita.dir/conversionExplicita.cpp.obj.ddi	fce513f1a833d525
+283	984	7600467977319229	CMakeFiles/conversionExplicita.dir/conversionExplicita.cpp.obj	9201e195b3024922
+984	1141	7600467984323936	conversionExplicita.exe	f3b82a1ea139d342
+21	321	7600469104688182	CMakeFiles/usoDeConstantes.dir/usoDeConstantes.cpp.obj.ddi	d37087a6f081c7a1
+321	396	7600469108347896	CMakeFiles/usoDeConstantes.dir/CXX.dd	6088cf5fb44a7d82
+321	396	7600469108347896	CMakeFiles/usoDeConstantes.dir/usoDeConstantes.cpp.obj.modmap	6088cf5fb44a7d82

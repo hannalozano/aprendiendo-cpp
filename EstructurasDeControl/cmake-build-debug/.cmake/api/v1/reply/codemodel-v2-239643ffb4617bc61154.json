@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "EstructurasDeControl",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "EstructurasDeControl::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-EstructurasDeControl-Debug-6396d84f309e6f2d06ae.json",
+					"name" : "EstructurasDeControl",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "evaluacionCalificacion::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-evaluacionCalificacion-Debug-0329c27d8a3d32d72ca7.json",
+					"name" : "evaluacionCalificacion",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "verificaAprobado::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-verificaAprobado-Debug-df1a0dc23a1641a144f4.json",
+					"name" : "verificaAprobado",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "verificaCandidato::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-verificaCandidato-Debug-8795ccdd9479e573b094.json",
+					"name" : "verificaCandidato",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "verificaPositivo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-verificaPositivo-Debug-5aae4a56a64ca065469c.json",
+					"name" : "verificaPositivo",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/hanna/OneDrive/Escritorio/CLionProjects/EstructurasDeControl/cmake-build-debug",
+		"source" : "C:/Users/hanna/OneDrive/Escritorio/CLionProjects/EstructurasDeControl"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
